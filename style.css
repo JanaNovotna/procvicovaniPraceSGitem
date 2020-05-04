@@ -55,6 +55,8 @@ header, footer {
   float: left;
   width: 33.33%;
   padding: 15px;
+  border: 15px solid #FFF;
+  background-color: #74b9ff;
 }
 
 /* Clear floats after the columns */
